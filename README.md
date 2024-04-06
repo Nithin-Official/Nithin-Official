@@ -1,5 +1,7 @@
+<br>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2a52234dd72571aae8dc2beb17d1a26f9dd5ca5afe9a88e5737731c14af0cc16/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966" />
 
+<br>
 # 💫 About Me:
  -  Dedicated and proficient Software Developer with designing, developing, and implementing web applications. Skilled in front-end<br>     development using HTML, CSS, Bootstrap, JavaScript and React.js, ensuring seamless user experiences and intuitive interfaces.<br>     Profound expertise in back-end development with Node.js and Express.js, adapt at creating RESTful APIs and managing server-side logic.<br>     Experienced in database design and management using MongoDB, ensuring efficient data storage and retrieval. Strong problem-solving<br>     abilities with a keen eye for detail, dedicated to delivering high-quality code that aligns with industry best practices<br><br>-   I am interested in collaborating on projects related to Web Development. If you're working on something exciting and need a helping hand,<br>     feel free to reach out to me!<br><br>Ask Me About : <br><br>- HTML<br>- CSS <br>- Bootstrap<br>- JavaScript<br>- React Js<br>- Node Js<br>- Express Js<br>- MongoDB<br>- Angular<br><br><br>
 
